@@ -1,0 +1,12 @@
+
+*.zip
+
+*.tif
+
+*.key
+
+/ARTS\ 254/*
+
+*.pdf
+
+*.docx
